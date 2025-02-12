@@ -4,3 +4,6 @@ mlmodel/ver0/
 dataset/
 spark/
 streamlit/pages_backup
+*.swp
+*.log
+*.tmp
